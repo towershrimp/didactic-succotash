@@ -1,4 +1,4 @@
 ---
-title: Welcome to OpenPen's Sari-Sari Store
+title: Welcome to OpenPEN's Sari-Sari Store
 ---
 
